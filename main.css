@@ -1,0 +1,27 @@
+body
+{
+background-image: url("img/background.jpg");
+background-size: cover;
+height: 100%;
+width: 100%;
+margin: 0;
+}
+
+.bg-transparent
+{
+background-color: transparent;
+}
+
+.navicon
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin-left: 15px;
+    margin-right: 30px;
+}
+
+.font-bar
+{
+    -webkit-text-stroke: 0.5px black;
+}
